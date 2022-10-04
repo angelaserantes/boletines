@@ -4,7 +4,7 @@
     <!ELEMENT color (#PCDATA)>
 ]>
 <colores>
-    <color>azul marino</color>
-    negro
-    <color>amarillo</color>
+   <color>azul marino</color>
+   <color>negro</color>
+   <color>amarillo</color>
 </colores>
